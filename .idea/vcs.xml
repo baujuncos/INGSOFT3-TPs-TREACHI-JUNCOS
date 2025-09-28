@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/2025_TP01_RepoBase" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP03_IntroAzureDevOps_ISW3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP04_Pipelines_ISW3" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TP2_Docker" vcs="Git" />
+  </component>
+</project>
