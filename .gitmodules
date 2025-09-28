@@ -1,0 +1,12 @@
+[submodule "TP03_IntroAzureDevOps_ISW3"]
+	path = TP03_IntroAzureDevOps_ISW3
+	url = https://github.com/belutreachi/TP03_IntroAzureDevOps_ISW3.git
+[submodule "TP04_Pipelines_ISW3"]
+	path = TP04_Pipelines_ISW3
+	url = https://github.com/belutreachi/TP04_Pipelines_ISW3.git
+[submodule "TP2_Docker"]
+	path = TP2_Docker
+	url = https://github.com/baujuncos/TP2_Docker_IS3.git
+[submodule "2025_TP01_RepoBase"]
+	path = 2025_TP01_RepoBase
+	url = https://github.com/baujuncos/2025_TP01_RepoBase.git
