@@ -10,3 +10,6 @@
 [submodule "2025_TP01_RepoBase"]
 	path = 2025_TP01_RepoBase
 	url = https://github.com/baujuncos/2025_TP01_RepoBase.git
+[submodule "TP05_ReleasePipelines"]
+	path = TP05_ReleasePipelines
+	url = https://github.com/baujuncos/TP5_IS3.git
