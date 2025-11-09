@@ -13,6 +13,6 @@
 [submodule "TP05_ReleasePipelines"]
 	path = TP05_ReleasePipelines
 	url = https://github.com/baujuncos/TP5_IS3.git
-[submodule "TP06_UnitTests_IS3"]
-	path = TP06_UnitTests_IS3
-	url = https://github.com/belutreachi/TP06_UnitTests_IS3.git
+[submodule "TP07_CodeCoverage_IS3"]
+	path = TP07_CodeCoverage_IS3
+	url = https://github.com/baujuncos/TP07_CodeCoverage_IS3.git
