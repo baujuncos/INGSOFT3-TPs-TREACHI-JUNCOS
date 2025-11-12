@@ -16,3 +16,6 @@
 [submodule "TP07_CodeCoverage_IS3"]
 	path = TP07_CodeCoverage_IS3
 	url = https://github.com/baujuncos/TP07_CodeCoverage_IS3.git
+[submodule "TP08_CloudContainers_IS3"]
+	path = TP08_CloudContainers_IS3
+	url = https://github.com/belutreachi/TP08_CloudContainers_IS3.git
