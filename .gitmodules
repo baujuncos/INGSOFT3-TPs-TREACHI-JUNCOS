@@ -19,6 +19,3 @@
 [submodule "TP08_CloudContainers_IS3"]
 	path = TP08_CloudContainers_IS3
 	url = https://github.com/belutreachi/TP08_CloudContainers_IS3.git
-[submodule "TP06_UnitTests_IS3"]
-	path = TP06_UnitTests_IS3
-	url = https://github.com/belutreachi/TP06_UnitTests_IS3.git
